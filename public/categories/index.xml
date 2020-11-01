@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on My New 10.000 Recipes Food For You</title>
+    <link>http://academyrecipes/categories/</link>
+    <description>Recent content in Categories on My New 10.000 Recipes Food For You</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 28 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://academyrecipes/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Recipes</title>
+      <link>http://academyrecipes/categories/recipes/</link>
+      <pubDate>Wed, 28 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://academyrecipes/categories/recipes/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

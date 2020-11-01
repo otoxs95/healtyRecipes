@@ -1,0 +1,29 @@
+baseURL = "http://academyrecipes"
+languageCode = "en-us"
+title = "My New 10.000 Recipes Food For You"
+theme = "hugo-nederburg-theme"
+
+
+  # Nav links in the side bar
+  [[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 1
+
+  [[menu.main]]
+  name = "About"
+  url = "about/"
+  weight = 2
+
+  [[menu.main]]
+  name = "Get in touch"
+  url = "contact/"
+  weight = 3
+
+  # this will also be in author bio if there is no writer.
+  [params.social]
+  facebook      = "full Social profile url in facebook"
+  email         = "email@example.com"
+  instagram     = "full profile url in instagram"
+  github        = "full profile url in github"
+  rss           = true
